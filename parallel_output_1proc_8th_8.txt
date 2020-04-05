@@ -1,0 +1,1487 @@
+
+QUERY 1:
+	Week1    24        lethal accidents
+	Week2    48        lethal accidents
+	Week3    32        lethal accidents
+	Week4    24        lethal accidents
+	Week5    40        lethal accidents
+	Week6    56        lethal accidents
+	Week7    8         lethal accidents
+	Week8    72        lethal accidents
+	Week9    48        lethal accidents
+	Week10   16        lethal accidents
+	Week11   48        lethal accidents
+	Week12   72        lethal accidents
+	Week13   56        lethal accidents
+	Week14   32        lethal accidents
+	Week15   16        lethal accidents
+	Week16   64        lethal accidents
+	Week17   64        lethal accidents
+	Week18   24        lethal accidents
+	Week19   16        lethal accidents
+	Week20   24        lethal accidents
+	Week21   32        lethal accidents
+	Week22   24        lethal accidents
+	Week23   8         lethal accidents
+	Week24   40        lethal accidents
+	Week25   64        lethal accidents
+	Week26   80        lethal accidents
+	Week27   64        lethal accidents
+	Week28   32        lethal accidents
+	Week29   32        lethal accidents
+	Week30   40        lethal accidents
+	Week31   72        lethal accidents
+	Week32   32        lethal accidents
+	Week33   40        lethal accidents
+	Week34   40        lethal accidents
+	Week35   48        lethal accidents
+	Week36   56        lethal accidents
+	Week37   40        lethal accidents
+	Week38   40        lethal accidents
+	Week39   24        lethal accidents
+	Week40   48        lethal accidents
+	Week41   8         lethal accidents
+	Week42   24        lethal accidents
+	Week43   24        lethal accidents
+	Week44   24        lethal accidents
+	Week45   24        lethal accidents
+	Week46   48        lethal accidents
+	Week47   8         lethal accidents
+	Week48   40        lethal accidents
+	Week49   32        lethal accidents
+	Week50   72        lethal accidents
+	Week51   24        lethal accidents
+	Week52   48        lethal accidents
+	Week53   24        lethal accidents
+	Week54   48        lethal accidents
+	Week55   16        lethal accidents
+	Week56   56        lethal accidents
+	Week57   64        lethal accidents
+	Week58   32        lethal accidents
+	Week59   112       lethal accidents
+	Week60   56        lethal accidents
+	Week61   48        lethal accidents
+	Week62   24        lethal accidents
+	Week63   48        lethal accidents
+	Week64   56        lethal accidents
+	Week65   72        lethal accidents
+	Week66   32        lethal accidents
+	Week67   48        lethal accidents
+	Week68   24        lethal accidents
+	Week69   48        lethal accidents
+	Week70   48        lethal accidents
+	Week71   48        lethal accidents
+	Week72   64        lethal accidents
+	Week73   32        lethal accidents
+	Week74   104       lethal accidents
+	Week75   40        lethal accidents
+	Week76   48        lethal accidents
+	Week77   48        lethal accidents
+	Week78   40        lethal accidents
+	Week79   64        lethal accidents
+	Week80   56        lethal accidents
+	Week81   32        lethal accidents
+	Week82   32        lethal accidents
+	Week83   24        lethal accidents
+	Week84   32        lethal accidents
+	Week85   32        lethal accidents
+	Week86   16        lethal accidents
+	Week87   24        lethal accidents
+	Week88   32        lethal accidents
+	Week89   16        lethal accidents
+	Week90   40        lethal accidents
+	Week91   48        lethal accidents
+	Week92   48        lethal accidents
+	Week93   24        lethal accidents
+	Week94   24        lethal accidents
+	Week95   32        lethal accidents
+	Week96   40        lethal accidents
+	Week97   40        lethal accidents
+	Week98   48        lethal accidents
+	Week99   64        lethal accidents
+	Week100  32        lethal accidents
+	Week101  64        lethal accidents
+	Week102  48        lethal accidents
+	Week103  32        lethal accidents
+	Week104  24        lethal accidents
+	Week105  56        lethal accidents
+	Week106  32        lethal accidents
+	Week107  48        lethal accidents
+	Week108  56        lethal accidents
+	Week109  80        lethal accidents
+	Week110  16        lethal accidents
+	Week111  24        lethal accidents
+	Week112  24        lethal accidents
+	Week113  72        lethal accidents
+	Week114  40        lethal accidents
+	Week115  56        lethal accidents
+	Week116  32        lethal accidents
+	Week117  48        lethal accidents
+	Week118  48        lethal accidents
+	Week119  32        lethal accidents
+	Week120  32        lethal accidents
+	Week121  24        lethal accidents
+	Week122  56        lethal accidents
+	Week123  64        lethal accidents
+	Week124  48        lethal accidents
+	Week125  32        lethal accidents
+	Week126  40        lethal accidents
+	Week127  32        lethal accidents
+	Week128  24        lethal accidents
+	Week129  24        lethal accidents
+	Week130  16        lethal accidents
+	Week131  32        lethal accidents
+	Week132  40        lethal accidents
+	Week133  32        lethal accidents
+	Week134  24        lethal accidents
+	Week135  16        lethal accidents
+	Week136  16        lethal accidents
+	Week137  24        lethal accidents
+	Week138  48        lethal accidents
+	Week139  40        lethal accidents
+	Week140  24        lethal accidents
+	Week141  8         lethal accidents
+	Week142  40        lethal accidents
+	Week143  16        lethal accidents
+	Week144  40        lethal accidents
+	Week145  24        lethal accidents
+	Week146  32        lethal accidents
+	Week147  24        lethal accidents
+	Week148  40        lethal accidents
+	Week149  40        lethal accidents
+	Week150  64        lethal accidents
+	Week151  40        lethal accidents
+	Week152  72        lethal accidents
+	Week153  48        lethal accidents
+	Week154  8         lethal accidents
+	Week155  40        lethal accidents
+	Week156  40        lethal accidents
+	Week157  64        lethal accidents
+	Week158  32        lethal accidents
+	Week159  32        lethal accidents
+	Week160  24        lethal accidents
+	Week161  32        lethal accidents
+	Week162  48        lethal accidents
+	Week163  24        lethal accidents
+	Week164  56        lethal accidents
+	Week165  32        lethal accidents
+	Week166  16        lethal accidents
+	Week167  48        lethal accidents
+	Week168  24        lethal accidents
+	Week169  24        lethal accidents
+	Week170  16        lethal accidents
+	Week171  48        lethal accidents
+	Week172  72        lethal accidents
+	Week173  40        lethal accidents
+	Week174  16        lethal accidents
+	Week175  64        lethal accidents
+	Week176  56        lethal accidents
+	Week177  32        lethal accidents
+	Week178  40        lethal accidents
+	Week179  56        lethal accidents
+	Week180  56        lethal accidents
+	Week181  48        lethal accidents
+	Week182  24        lethal accidents
+	Week183  0         lethal accidents
+	Week184  32        lethal accidents
+	Week185  56        lethal accidents
+	Week186  32        lethal accidents
+	Week187  16        lethal accidents
+	Week188  24        lethal accidents
+	Week189  40        lethal accidents
+	Week190  24        lethal accidents
+	Week191  8         lethal accidents
+	Week192  56        lethal accidents
+	Week193  32        lethal accidents
+	Week194  16        lethal accidents
+	Week195  32        lethal accidents
+	Week196  0         lethal accidents
+	Week197  40        lethal accidents
+	Week198  24        lethal accidents
+	Week199  16        lethal accidents
+	Week200  16        lethal accidents
+	Week201  40        lethal accidents
+	Week202  56        lethal accidents
+	Week203  24        lethal accidents
+	Week204  24        lethal accidents
+	Week205  16        lethal accidents
+	Week206  48        lethal accidents
+	Week207  56        lethal accidents
+	Week208  48        lethal accidents
+	Week209  64        lethal accidents
+	Week210  48        lethal accidents
+	Week211  32        lethal accidents
+	Week212  32        lethal accidents
+	Week213  8         lethal accidents
+	Week214  32        lethal accidents
+	Week215  40        lethal accidents
+	Week216  40        lethal accidents
+	Week217  48        lethal accidents
+	Week218  56        lethal accidents
+	Week219  24        lethal accidents
+	Week220  32        lethal accidents
+	Week221  24        lethal accidents
+	Week222  48        lethal accidents
+	Week223  48        lethal accidents
+	Week224  48        lethal accidents
+	Week225  40        lethal accidents
+	Week226  24        lethal accidents
+	Week227  40        lethal accidents
+	Week228  24        lethal accidents
+	Week229  64        lethal accidents
+	Week230  8         lethal accidents
+	Week231  16        lethal accidents
+	Week232  48        lethal accidents
+	Week233  32        lethal accidents
+	Week234  16        lethal accidents
+	Week235  40        lethal accidents
+	Week236  40        lethal accidents
+	9008 total lethal accidents over 236 weeks, avg = 3816.95%
+
+QUERY 2:
+	FACTOR                                                      N_ACCIDENTS         N_DEATH             PERC_N_DEATH
+	Driverless/Runaway Vehicle                                  560                 0                   0.00%
+	Windshield Inadequate                                       408                 0                   0.00%
+	Tow Hitch Defective                                         720                 16                  2.22%
+	Other Lighting Defects                                      664                 0                   0.00%
+	Headlights Defective                                        600                 0                   0.00%
+	Shoulders Defective/Improper                                368                 0                   0.00%
+	Cell Phone (hands-free)                                     1848                0                   0.00%
+	Unsafe Lane Changing                                        27680               0                   0.00%
+	Drugs (Illegal)                                             4552                48                  1.05%
+	Cell Phone (hand-held)                                      1016                0                   0.00%
+	Traffic Control Device Improper/Non-Working                 3528                0                   0.00%
+	Accelerator Defective                                       3448                0                   0.00%
+	Pedestrian/Bicyclist/Other Pedestrian Error/Confusion       6208                120                 1.93%
+	Animals Action                                              4000                0                   0.00%
+	Tire Failure/Inadequate                                     7016                16                  0.23%
+	Fell Asleep                                                 12496               128                 1.02%
+	Aggressive Driving/Road Rage                                26424               96                  0.36%
+	Glare                                                       16144               16                  0.10%
+	Other Electronic Device                                     19872               48                  0.24%
+	Failure to Keep Right                                       16168               0                   0.00%
+	Lane Marking Improper/Inadequate                            4024                0                   0.00%
+	Physical Disability                                         82768               512                 0.62%
+	Brakes Defective                                            20232               0                   0.00%
+	Alcohol Involvement                                         62456               552                 0.88%
+	Oversized Vehicle                                           49560               0                   0.00%
+	Steering Failure                                            6888                0                   0.00%
+	Traffic Control Disregarded                                 109720              2416                2.20%
+	Pavement Defective                                          8592                64                  0.74%
+	Passenger Distraction                                       40816               896                 2.20%
+	Reaction to Other Uninvolved Vehicle                        23808               0                   0.00%
+	Outside Car Distraction                                     92232               80                  0.09%
+	Turning Improperly                                          206624              80                  0.04%
+	Illness                                                     20992               64                  0.30%
+	Obstruction/Debris                                          14784               32                  0.22%
+	Failure to Yield Right-of-Way                               355704              1488                0.42%
+	Driver Inexperience                                         105056              208                 0.20%
+	View Obstructed/Limited                                     33112               144                 0.43%
+	Fatigued/Drowsy                                             438752              48                  0.01%
+	Backing Unsafely                                            229560              320                 0.14%
+	Following Too Closely                                       66376               256                 0.39%
+	Other Vehicular                                             274608              208                 0.08%
+	Passing or Lane Usage Improper                              32552               64                  0.20%
+	Unsafe Speed                                                19816               160                 0.81%
+	Prescription Medication                                     142472              144                 0.10%
+	Pavement Slippery                                           81128               112                 0.14%
+	Lost Consciousness                                          179648              144                 0.08%
+	Driver Inattention/Distraction                              1016032             1912                0.19%
+	Unspecified                                                 6347064             12640               0.20%
+
+QUERY 3:
+	BOROUGH: BRONX
+		Week1    3216      accidents
+		Week2    2928      accidents
+		Week3    2808      accidents
+		Week4    3048      accidents
+		Week5    3128      accidents
+		Week6    3184      accidents
+		Week7    2744      accidents
+		Week8    2816      accidents
+		Week9    2984      accidents
+		Week10   2728      accidents
+		Week11   3176      accidents
+		Week12   2896      accidents
+		Week13   2880      accidents
+		Week14   2992      accidents
+		Week15   2904      accidents
+		Week16   2928      accidents
+		Week17   3000      accidents
+		Week18   2128      accidents
+		Week19   2992      accidents
+		Week20   2792      accidents
+		Week21   2640      accidents
+		Week22   2696      accidents
+		Week23   2744      accidents
+		Week24   3088      accidents
+		Week25   3120      accidents
+		Week26   2744      accidents
+		Week27   2736      accidents
+		Week28   2824      accidents
+		Week29   2592      accidents
+		Week30   2648      accidents
+		Week31   2856      accidents
+		Week32   3512      accidents
+		Week33   3024      accidents
+		Week34   2720      accidents
+		Week35   2960      accidents
+		Week36   3640      accidents
+		Week37   3280      accidents
+		Week38   3152      accidents
+		Week39   2696      accidents
+		Week40   2736      accidents
+		Week41   2984      accidents
+		Week42   3152      accidents
+		Week43   3176      accidents
+		Week44   2880      accidents
+		Week45   3056      accidents
+		Week46   3408      accidents
+		Week47   3272      accidents
+		Week48   3440      accidents
+		Week49   3560      accidents
+		Week50   3392      accidents
+		Week51   3088      accidents
+		Week52   3096      accidents
+		Week53   3304      accidents
+		Week54   3168      accidents
+		Week55   3264      accidents
+		Week56   2776      accidents
+		Week57   3312      accidents
+		Week58   2816      accidents
+		Week59   2944      accidents
+		Week60   2992      accidents
+		Week61   2592      accidents
+		Week62   2736      accidents
+		Week63   3296      accidents
+		Week64   3344      accidents
+		Week65   3112      accidents
+		Week66   3088      accidents
+		Week67   2632      accidents
+		Week68   3016      accidents
+		Week69   2784      accidents
+		Week70   2776      accidents
+		Week71   2920      accidents
+		Week72   3120      accidents
+		Week73   2944      accidents
+		Week74   3080      accidents
+		Week75   2872      accidents
+		Week76   2992      accidents
+		Week77   3256      accidents
+		Week78   2664      accidents
+		Week79   2728      accidents
+		Week80   2784      accidents
+		Week81   2728      accidents
+		Week82   3200      accidents
+		Week83   3304      accidents
+		Week84   3480      accidents
+		Week85   3888      accidents
+		Week86   2944      accidents
+		Week87   3120      accidents
+		Week88   2960      accidents
+		Week89   2624      accidents
+		Week90   2792      accidents
+		Week91   3032      accidents
+		Week92   2768      accidents
+		Week93   3112      accidents
+		Week94   2888      accidents
+		Week95   2592      accidents
+		Week96   3096      accidents
+		Week97   3008      accidents
+		Week98   2816      accidents
+		Week99   2928      accidents
+		Week100  3192      accidents
+		Week101  3200      accidents
+		Week102  3016      accidents
+		Week103  3352      accidents
+		Week104  3576      accidents
+		Week105  3096      accidents
+		Week106  3184      accidents
+		Week107  2800      accidents
+		Week108  3120      accidents
+		Week109  2776      accidents
+		Week110  2936      accidents
+		Week111  2792      accidents
+		Week112  2880      accidents
+		Week113  3008      accidents
+		Week114  3200      accidents
+		Week115  3216      accidents
+		Week116  3224      accidents
+		Week117  3312      accidents
+		Week118  3048      accidents
+		Week119  3000      accidents
+		Week120  2832      accidents
+		Week121  2840      accidents
+		Week122  3112      accidents
+		Week123  2928      accidents
+		Week124  2824      accidents
+		Week125  3200      accidents
+		Week126  2904      accidents
+		Week127  3024      accidents
+		Week128  3208      accidents
+		Week129  3272      accidents
+		Week130  2504      accidents
+		Week131  2344      accidents
+		Week132  3328      accidents
+		Week133  2840      accidents
+		Week134  3912      accidents
+		Week135  2488      accidents
+		Week136  3248      accidents
+		Week137  2976      accidents
+		Week138  3008      accidents
+		Week139  2248      accidents
+		Week140  4360      accidents
+		Week141  3272      accidents
+		Week142  2864      accidents
+		Week143  2856      accidents
+		Week144  2816      accidents
+		Week145  2768      accidents
+		Week146  3296      accidents
+		Week147  2976      accidents
+		Week148  3272      accidents
+		Week149  3432      accidents
+		Week150  3328      accidents
+		Week151  3352      accidents
+		Week152  3224      accidents
+		Week153  3584      accidents
+		Week154  2912      accidents
+		Week155  3296      accidents
+		Week156  3960      accidents
+		Week157  3016      accidents
+		Week158  3448      accidents
+		Week159  3376      accidents
+		Week160  3184      accidents
+		Week161  3424      accidents
+		Week162  3584      accidents
+		Week163  3616      accidents
+		Week164  3296      accidents
+		Week165  3056      accidents
+		Week166  3376      accidents
+		Week167  3600      accidents
+		Week168  3224      accidents
+		Week169  3192      accidents
+		Week170  3096      accidents
+		Week171  3576      accidents
+		Week172  3320      accidents
+		Week173  3448      accidents
+		Week174  3040      accidents
+		Week175  3192      accidents
+		Week176  3456      accidents
+		Week177  3544      accidents
+		Week178  3176      accidents
+		Week179  3712      accidents
+		Week180  3360      accidents
+		Week181  3592      accidents
+		Week182  3160      accidents
+		Week183  2872      accidents
+		Week184  3496      accidents
+		Week185  3288      accidents
+		Week186  3176      accidents
+		Week187  3888      accidents
+		Week188  3464      accidents
+		Week189  3032      accidents
+		Week190  2832      accidents
+		Week191  3200      accidents
+		Week192  3680      accidents
+		Week193  3544      accidents
+		Week194  2936      accidents
+		Week195  3232      accidents
+		Week196  3520      accidents
+		Week197  3624      accidents
+		Week198  3664      accidents
+		Week199  4160      accidents
+		Week200  3016      accidents
+		Week201  3432      accidents
+		Week202  4064      accidents
+		Week203  3424      accidents
+		Week204  3760      accidents
+		Week205  3336      accidents
+		Week206  2976      accidents
+		Week207  3280      accidents
+		Week208  3352      accidents
+		Week209  3408      accidents
+		Week210  3112      accidents
+		Week211  3672      accidents
+		Week212  3688      accidents
+		Week213  3544      accidents
+		Week214  3368      accidents
+		Week215  3168      accidents
+		Week216  3344      accidents
+		Week217  2960      accidents
+		Week218  3392      accidents
+		Week219  3104      accidents
+		Week220  3488      accidents
+		Week221  3304      accidents
+		Week222  3208      accidents
+		Week223  3064      accidents
+		Week224  2856      accidents
+		Week225  3224      accidents
+		Week226  3408      accidents
+		Week227  3128      accidents
+		Week228  2856      accidents
+		Week229  3072      accidents
+		Week230  3024      accidents
+		Week231  3184      accidents
+		Week232  3184      accidents
+		Week233  3168      accidents
+		Week234  3472      accidents
+		Week235  2552      accidents
+		Week236  888       accidents
+		Avg lethal accidents/week: 376.27% (888 lethal accidents over 236 weeks)
+
+	BOROUGH: BROOKLYN
+		Week1    7448      accidents
+		Week2    7280      accidents
+		Week3    6656      accidents
+		Week4    7192      accidents
+		Week5    6360      accidents
+		Week6    7384      accidents
+		Week7    7088      accidents
+		Week8    6520      accidents
+		Week9    7560      accidents
+		Week10   7704      accidents
+		Week11   7448      accidents
+		Week12   6384      accidents
+		Week13   6952      accidents
+		Week14   6512      accidents
+		Week15   7104      accidents
+		Week16   7664      accidents
+		Week17   7128      accidents
+		Week18   5472      accidents
+		Week19   7320      accidents
+		Week20   7840      accidents
+		Week21   6840      accidents
+		Week22   6840      accidents
+		Week23   7872      accidents
+		Week24   7792      accidents
+		Week25   7800      accidents
+		Week26   6480      accidents
+		Week27   6224      accidents
+		Week28   6968      accidents
+		Week29   6352      accidents
+		Week30   6776      accidents
+		Week31   6952      accidents
+		Week32   7328      accidents
+		Week33   6632      accidents
+		Week34   6224      accidents
+		Week35   6672      accidents
+		Week36   7504      accidents
+		Week37   6800      accidents
+		Week38   6536      accidents
+		Week39   5904      accidents
+		Week40   6600      accidents
+		Week41   7528      accidents
+		Week42   7080      accidents
+		Week43   7232      accidents
+		Week44   7792      accidents
+		Week45   8072      accidents
+		Week46   7000      accidents
+		Week47   8080      accidents
+		Week48   7896      accidents
+		Week49   8072      accidents
+		Week50   8032      accidents
+		Week51   8456      accidents
+		Week52   7928      accidents
+		Week53   7384      accidents
+		Week54   7336      accidents
+		Week55   7368      accidents
+		Week56   6776      accidents
+		Week57   7192      accidents
+		Week58   6680      accidents
+		Week59   7184      accidents
+		Week60   6952      accidents
+		Week61   7016      accidents
+		Week62   7048      accidents
+		Week63   7656      accidents
+		Week64   7168      accidents
+		Week65   6592      accidents
+		Week66   7560      accidents
+		Week67   7032      accidents
+		Week68   7104      accidents
+		Week69   7472      accidents
+		Week70   7208      accidents
+		Week71   7560      accidents
+		Week72   7112      accidents
+		Week73   7712      accidents
+		Week74   7848      accidents
+		Week75   7176      accidents
+		Week76   7696      accidents
+		Week77   8280      accidents
+		Week78   6344      accidents
+		Week79   6232      accidents
+		Week80   6784      accidents
+		Week81   6944      accidents
+		Week82   7504      accidents
+		Week83   7504      accidents
+		Week84   7728      accidents
+		Week85   7552      accidents
+		Week86   6616      accidents
+		Week87   6648      accidents
+		Week88   6376      accidents
+		Week89   7056      accidents
+		Week90   6880      accidents
+		Week91   6760      accidents
+		Week92   7392      accidents
+		Week93   7664      accidents
+		Week94   6312      accidents
+		Week95   6448      accidents
+		Week96   7696      accidents
+		Week97   7224      accidents
+		Week98   7976      accidents
+		Week99   7384      accidents
+		Week100  7528      accidents
+		Week101  8056      accidents
+		Week102  7608      accidents
+		Week103  8392      accidents
+		Week104  7968      accidents
+		Week105  7656      accidents
+		Week106  7376      accidents
+		Week107  6824      accidents
+		Week108  7304      accidents
+		Week109  7496      accidents
+		Week110  7216      accidents
+		Week111  6896      accidents
+		Week112  6832      accidents
+		Week113  7128      accidents
+		Week114  8192      accidents
+		Week115  7848      accidents
+		Week116  7872      accidents
+		Week117  7272      accidents
+		Week118  7600      accidents
+		Week119  7216      accidents
+		Week120  6720      accidents
+		Week121  8448      accidents
+		Week122  8152      accidents
+		Week123  7752      accidents
+		Week124  7120      accidents
+		Week125  7816      accidents
+		Week126  6880      accidents
+		Week127  7304      accidents
+		Week128  7968      accidents
+		Week129  7496      accidents
+		Week130  6672      accidents
+		Week131  5824      accidents
+		Week132  7824      accidents
+		Week133  6584      accidents
+		Week134  7616      accidents
+		Week135  6400      accidents
+		Week136  8432      accidents
+		Week137  7616      accidents
+		Week138  7104      accidents
+		Week139  4832      accidents
+		Week140  9640      accidents
+		Week141  7656      accidents
+		Week142  7216      accidents
+		Week143  7184      accidents
+		Week144  7088      accidents
+		Week145  6040      accidents
+		Week146  7504      accidents
+		Week147  8008      accidents
+		Week148  7584      accidents
+		Week149  8136      accidents
+		Week150  8720      accidents
+		Week151  7888      accidents
+		Week152  8304      accidents
+		Week153  8224      accidents
+		Week154  7200      accidents
+		Week155  7696      accidents
+		Week156  9208      accidents
+		Week157  7408      accidents
+		Week158  7992      accidents
+		Week159  7800      accidents
+		Week160  7336      accidents
+		Week161  8152      accidents
+		Week162  8464      accidents
+		Week163  8040      accidents
+		Week164  8072      accidents
+		Week165  7504      accidents
+		Week166  8800      accidents
+		Week167  8632      accidents
+		Week168  8416      accidents
+		Week169  7760      accidents
+		Week170  7544      accidents
+		Week171  8080      accidents
+		Week172  8328      accidents
+		Week173  8720      accidents
+		Week174  8304      accidents
+		Week175  7680      accidents
+		Week176  7912      accidents
+		Week177  8864      accidents
+		Week178  7512      accidents
+		Week179  8040      accidents
+		Week180  7408      accidents
+		Week181  9216      accidents
+		Week182  7552      accidents
+		Week183  6456      accidents
+		Week184  8128      accidents
+		Week185  7904      accidents
+		Week186  7936      accidents
+		Week187  8464      accidents
+		Week188  8648      accidents
+		Week189  7216      accidents
+		Week190  6240      accidents
+		Week191  7032      accidents
+		Week192  7928      accidents
+		Week193  7960      accidents
+		Week194  7576      accidents
+		Week195  7744      accidents
+		Week196  8456      accidents
+		Week197  8368      accidents
+		Week198  8872      accidents
+		Week199  9192      accidents
+		Week200  6624      accidents
+		Week201  8560      accidents
+		Week202  8264      accidents
+		Week203  7512      accidents
+		Week204  7712      accidents
+		Week205  7360      accidents
+		Week206  6744      accidents
+		Week207  6320      accidents
+		Week208  7792      accidents
+		Week209  7440      accidents
+		Week210  6568      accidents
+		Week211  6728      accidents
+		Week212  7560      accidents
+		Week213  7168      accidents
+		Week214  6728      accidents
+		Week215  6424      accidents
+		Week216  6696      accidents
+		Week217  6992      accidents
+		Week218  6632      accidents
+		Week219  6616      accidents
+		Week220  7240      accidents
+		Week221  6672      accidents
+		Week222  7048      accidents
+		Week223  6640      accidents
+		Week224  6840      accidents
+		Week225  6520      accidents
+		Week226  6832      accidents
+		Week227  7424      accidents
+		Week228  6472      accidents
+		Week229  7544      accidents
+		Week230  6320      accidents
+		Week231  7240      accidents
+		Week232  6480      accidents
+		Week233  7128      accidents
+		Week234  6792      accidents
+		Week235  5128      accidents
+		Week236  1944      accidents
+		Avg lethal accidents/week: 877.97% (2072 lethal accidents over 236 weeks)
+
+	BOROUGH: STATEN ISLAND
+		Week1    1440      accidents
+		Week2    1328      accidents
+		Week3    1312      accidents
+		Week4    1448      accidents
+		Week5    1472      accidents
+		Week6    1512      accidents
+		Week7    1528      accidents
+		Week8    1480      accidents
+		Week9    1584      accidents
+		Week10   1448      accidents
+		Week11   1488      accidents
+		Week12   1608      accidents
+		Week13   1528      accidents
+		Week14   1728      accidents
+		Week15   1576      accidents
+		Week16   1920      accidents
+		Week17   1232      accidents
+		Week18   848       accidents
+		Week19   1496      accidents
+		Week20   1680      accidents
+		Week21   1520      accidents
+		Week22   1448      accidents
+		Week23   1616      accidents
+		Week24   1424      accidents
+		Week25   1800      accidents
+		Week26   1448      accidents
+		Week27   1136      accidents
+		Week28   1504      accidents
+		Week29   1368      accidents
+		Week30   1552      accidents
+		Week31   1280      accidents
+		Week32   1552      accidents
+		Week33   1496      accidents
+		Week34   1424      accidents
+		Week35   1344      accidents
+		Week36   1752      accidents
+		Week37   1368      accidents
+		Week38   1592      accidents
+		Week39   1248      accidents
+		Week40   1288      accidents
+		Week41   1512      accidents
+		Week42   1256      accidents
+		Week43   1400      accidents
+		Week44   1792      accidents
+		Week45   1632      accidents
+		Week46   1336      accidents
+		Week47   1736      accidents
+		Week48   1728      accidents
+		Week49   1640      accidents
+		Week50   1584      accidents
+		Week51   1848      accidents
+		Week52   1696      accidents
+		Week53   1008      accidents
+		Week54   1072      accidents
+		Week55   936       accidents
+		Week56   800       accidents
+		Week57   944       accidents
+		Week58   920       accidents
+		Week59   976       accidents
+		Week60   992       accidents
+		Week61   808       accidents
+		Week62   792       accidents
+		Week63   1072      accidents
+		Week64   968       accidents
+		Week65   1352      accidents
+		Week66   1096      accidents
+		Week67   1040      accidents
+		Week68   912       accidents
+		Week69   1144      accidents
+		Week70   1320      accidents
+		Week71   1272      accidents
+		Week72   1088      accidents
+		Week73   1024      accidents
+		Week74   1056      accidents
+		Week75   1048      accidents
+		Week76   1456      accidents
+		Week77   1296      accidents
+		Week78   912       accidents
+		Week79   952       accidents
+		Week80   1064      accidents
+		Week81   1048      accidents
+		Week82   1360      accidents
+		Week83   1040      accidents
+		Week84   1328      accidents
+		Week85   1392      accidents
+		Week86   1032      accidents
+		Week87   1128      accidents
+		Week88   912       accidents
+		Week89   992       accidents
+		Week90   1000      accidents
+		Week91   960       accidents
+		Week92   960       accidents
+		Week93   1136      accidents
+		Week94   792       accidents
+		Week95   832       accidents
+		Week96   1032      accidents
+		Week97   824       accidents
+		Week98   1136      accidents
+		Week99   976       accidents
+		Week100  784       accidents
+		Week101  1256      accidents
+		Week102  1312      accidents
+		Week103  1160      accidents
+		Week104  1064      accidents
+		Week105  976       accidents
+		Week106  1144      accidents
+		Week107  808       accidents
+		Week108  888       accidents
+		Week109  968       accidents
+		Week110  968       accidents
+		Week111  992       accidents
+		Week112  688       accidents
+		Week113  896       accidents
+		Week114  1120      accidents
+		Week115  1032      accidents
+		Week116  1072      accidents
+		Week117  1000      accidents
+		Week118  1032      accidents
+		Week119  1064      accidents
+		Week120  1064      accidents
+		Week121  1144      accidents
+		Week122  1016      accidents
+		Week123  1016      accidents
+		Week124  1032      accidents
+		Week125  1040      accidents
+		Week126  832       accidents
+		Week127  992       accidents
+		Week128  904       accidents
+		Week129  776       accidents
+		Week130  896       accidents
+		Week131  672       accidents
+		Week132  1216      accidents
+		Week133  968       accidents
+		Week134  1112      accidents
+		Week135  808       accidents
+		Week136  1008      accidents
+		Week137  968       accidents
+		Week138  976       accidents
+		Week139  568       accidents
+		Week140  1288      accidents
+		Week141  760       accidents
+		Week142  800       accidents
+		Week143  808       accidents
+		Week144  896       accidents
+		Week145  712       accidents
+		Week146  808       accidents
+		Week147  1016      accidents
+		Week148  936       accidents
+		Week149  1264      accidents
+		Week150  1176      accidents
+		Week151  1016      accidents
+		Week152  1200      accidents
+		Week153  880       accidents
+		Week154  952       accidents
+		Week155  872       accidents
+		Week156  1072      accidents
+		Week157  1008      accidents
+		Week158  880       accidents
+		Week159  992       accidents
+		Week160  896       accidents
+		Week161  960       accidents
+		Week162  984       accidents
+		Week163  816       accidents
+		Week164  888       accidents
+		Week165  1056      accidents
+		Week166  864       accidents
+		Week167  944       accidents
+		Week168  944       accidents
+		Week169  952       accidents
+		Week170  1000      accidents
+		Week171  1088      accidents
+		Week172  1032      accidents
+		Week173  984       accidents
+		Week174  984       accidents
+		Week175  856       accidents
+		Week176  1072      accidents
+		Week177  1312      accidents
+		Week178  1008      accidents
+		Week179  920       accidents
+		Week180  1160      accidents
+		Week181  1160      accidents
+		Week182  992       accidents
+		Week183  696       accidents
+		Week184  976       accidents
+		Week185  1168      accidents
+		Week186  1000      accidents
+		Week187  1480      accidents
+		Week188  1352      accidents
+		Week189  800       accidents
+		Week190  816       accidents
+		Week191  1048      accidents
+		Week192  1008      accidents
+		Week193  1008      accidents
+		Week194  928       accidents
+		Week195  1056      accidents
+		Week196  1000      accidents
+		Week197  912       accidents
+		Week198  1224      accidents
+		Week199  1064      accidents
+		Week200  752       accidents
+		Week201  1064      accidents
+		Week202  1320      accidents
+		Week203  984       accidents
+		Week204  1136      accidents
+		Week205  1064      accidents
+		Week206  984       accidents
+		Week207  992       accidents
+		Week208  1144      accidents
+		Week209  1104      accidents
+		Week210  928       accidents
+		Week211  1344      accidents
+		Week212  984       accidents
+		Week213  952       accidents
+		Week214  904       accidents
+		Week215  1088      accidents
+		Week216  872       accidents
+		Week217  872       accidents
+		Week218  896       accidents
+		Week219  800       accidents
+		Week220  968       accidents
+		Week221  1216      accidents
+		Week222  1008      accidents
+		Week223  1080      accidents
+		Week224  992       accidents
+		Week225  1160      accidents
+		Week226  1024      accidents
+		Week227  1080      accidents
+		Week228  968       accidents
+		Week229  848       accidents
+		Week230  904       accidents
+		Week231  1200      accidents
+		Week232  1040      accidents
+		Week233  1128      accidents
+		Week234  1096      accidents
+		Week235  800       accidents
+		Week236  256       accidents
+		Avg lethal accidents/week: 149.15% (352 lethal accidents over 236 weeks)
+
+	BOROUGH: QUEENS
+		Week1    6168      accidents
+		Week2    5360      accidents
+		Week3    6016      accidents
+		Week4    5936      accidents
+		Week5    5632      accidents
+		Week6    5832      accidents
+		Week7    5608      accidents
+		Week8    5144      accidents
+		Week9    5864      accidents
+		Week10   5672      accidents
+		Week11   6336      accidents
+		Week12   5688      accidents
+		Week13   6048      accidents
+		Week14   5904      accidents
+		Week15   6008      accidents
+		Week16   6432      accidents
+		Week17   5128      accidents
+		Week18   4816      accidents
+		Week19   6144      accidents
+		Week20   6056      accidents
+		Week21   6136      accidents
+		Week22   5688      accidents
+		Week23   6520      accidents
+		Week24   5816      accidents
+		Week25   6504      accidents
+		Week26   5192      accidents
+		Week27   4792      accidents
+		Week28   5560      accidents
+		Week29   5560      accidents
+		Week30   5864      accidents
+		Week31   5656      accidents
+		Week32   6160      accidents
+		Week33   5640      accidents
+		Week34   4944      accidents
+		Week35   5080      accidents
+		Week36   6384      accidents
+		Week37   5744      accidents
+		Week38   5944      accidents
+		Week39   5808      accidents
+		Week40   5552      accidents
+		Week41   6192      accidents
+		Week42   5576      accidents
+		Week43   5944      accidents
+		Week44   6128      accidents
+		Week45   5760      accidents
+		Week46   6376      accidents
+		Week47   6744      accidents
+		Week48   6400      accidents
+		Week49   6632      accidents
+		Week50   6176      accidents
+		Week51   6064      accidents
+		Week52   6280      accidents
+		Week53   5776      accidents
+		Week54   5912      accidents
+		Week55   6776      accidents
+		Week56   6096      accidents
+		Week57   6064      accidents
+		Week58   5688      accidents
+		Week59   5744      accidents
+		Week60   5568      accidents
+		Week61   5120      accidents
+		Week62   5448      accidents
+		Week63   6504      accidents
+		Week64   6032      accidents
+		Week65   6384      accidents
+		Week66   6440      accidents
+		Week67   6160      accidents
+		Week68   5800      accidents
+		Week69   6648      accidents
+		Week70   6704      accidents
+		Week71   6560      accidents
+		Week72   6336      accidents
+		Week73   6640      accidents
+		Week74   6776      accidents
+		Week75   6064      accidents
+		Week76   7008      accidents
+		Week77   7280      accidents
+		Week78   5256      accidents
+		Week79   5120      accidents
+		Week80   6240      accidents
+		Week81   5896      accidents
+		Week82   6720      accidents
+		Week83   6080      accidents
+		Week84   7304      accidents
+		Week85   7200      accidents
+		Week86   6480      accidents
+		Week87   5736      accidents
+		Week88   5624      accidents
+		Week89   5480      accidents
+		Week90   5848      accidents
+		Week91   6040      accidents
+		Week92   6032      accidents
+		Week93   6176      accidents
+		Week94   5488      accidents
+		Week95   5952      accidents
+		Week96   6512      accidents
+		Week97   6280      accidents
+		Week98   6320      accidents
+		Week99   6104      accidents
+		Week100  6216      accidents
+		Week101  6864      accidents
+		Week102  6296      accidents
+		Week103  7000      accidents
+		Week104  6952      accidents
+		Week105  6312      accidents
+		Week106  6392      accidents
+		Week107  5992      accidents
+		Week108  6080      accidents
+		Week109  6320      accidents
+		Week110  6304      accidents
+		Week111  6184      accidents
+		Week112  5504      accidents
+		Week113  6360      accidents
+		Week114  6368      accidents
+		Week115  6664      accidents
+		Week116  6744      accidents
+		Week117  6240      accidents
+		Week118  6832      accidents
+		Week119  6256      accidents
+		Week120  6496      accidents
+		Week121  6832      accidents
+		Week122  6664      accidents
+		Week123  6656      accidents
+		Week124  6304      accidents
+		Week125  6664      accidents
+		Week126  6160      accidents
+		Week127  6096      accidents
+		Week128  6736      accidents
+		Week129  6504      accidents
+		Week130  5664      accidents
+		Week131  4944      accidents
+		Week132  7032      accidents
+		Week133  6000      accidents
+		Week134  6440      accidents
+		Week135  5752      accidents
+		Week136  6624      accidents
+		Week137  6176      accidents
+		Week138  5920      accidents
+		Week139  4288      accidents
+		Week140  8504      accidents
+		Week141  6152      accidents
+		Week142  5952      accidents
+		Week143  5904      accidents
+		Week144  5984      accidents
+		Week145  4856      accidents
+		Week146  6088      accidents
+		Week147  5976      accidents
+		Week148  6400      accidents
+		Week149  6720      accidents
+		Week150  6520      accidents
+		Week151  6576      accidents
+		Week152  6832      accidents
+		Week153  6840      accidents
+		Week154  6568      accidents
+		Week155  6592      accidents
+		Week156  7352      accidents
+		Week157  6376      accidents
+		Week158  6456      accidents
+		Week159  6576      accidents
+		Week160  6720      accidents
+		Week161  7256      accidents
+		Week162  6512      accidents
+		Week163  6840      accidents
+		Week164  6760      accidents
+		Week165  6224      accidents
+		Week166  6704      accidents
+		Week167  7808      accidents
+		Week168  7112      accidents
+		Week169  6328      accidents
+		Week170  7016      accidents
+		Week171  6976      accidents
+		Week172  6832      accidents
+		Week173  7048      accidents
+		Week174  6984      accidents
+		Week175  6024      accidents
+		Week176  6872      accidents
+		Week177  7120      accidents
+		Week178  6256      accidents
+		Week179  6600      accidents
+		Week180  6360      accidents
+		Week181  7216      accidents
+		Week182  6736      accidents
+		Week183  5456      accidents
+		Week184  6616      accidents
+		Week185  6760      accidents
+		Week186  6504      accidents
+		Week187  8328      accidents
+		Week188  6888      accidents
+		Week189  5752      accidents
+		Week190  4944      accidents
+		Week191  5896      accidents
+		Week192  6760      accidents
+		Week193  6512      accidents
+		Week194  6560      accidents
+		Week195  6472      accidents
+		Week196  6992      accidents
+		Week197  7272      accidents
+		Week198  6912      accidents
+		Week199  7256      accidents
+		Week200  5240      accidents
+		Week201  7040      accidents
+		Week202  7160      accidents
+		Week203  6536      accidents
+		Week204  6560      accidents
+		Week205  6440      accidents
+		Week206  6080      accidents
+		Week207  5608      accidents
+		Week208  6912      accidents
+		Week209  6720      accidents
+		Week210  5688      accidents
+		Week211  6264      accidents
+		Week212  6688      accidents
+		Week213  6616      accidents
+		Week214  6232      accidents
+		Week215  5984      accidents
+		Week216  5912      accidents
+		Week217  5856      accidents
+		Week218  5720      accidents
+		Week219  5696      accidents
+		Week220  6592      accidents
+		Week221  6496      accidents
+		Week222  6440      accidents
+		Week223  6024      accidents
+		Week224  6064      accidents
+		Week225  6256      accidents
+		Week226  6288      accidents
+		Week227  5760      accidents
+		Week228  5672      accidents
+		Week229  6384      accidents
+		Week230  6048      accidents
+		Week231  6312      accidents
+		Week232  6032      accidents
+		Week233  6200      accidents
+		Week234  6664      accidents
+		Week235  5168      accidents
+		Week236  2112      accidents
+		Avg lethal accidents/week: 735.59% (1736 lethal accidents over 236 weeks)
+
+	BOROUGH: MANHATTAN
+		Week1    6392      accidents
+		Week2    6208      accidents
+		Week3    6816      accidents
+		Week4    7176      accidents
+		Week5    6656      accidents
+		Week6    6624      accidents
+		Week7    6640      accidents
+		Week8    6056      accidents
+		Week9    6152      accidents
+		Week10   6344      accidents
+		Week11   6792      accidents
+		Week12   6896      accidents
+		Week13   6512      accidents
+		Week14   6568      accidents
+		Week15   6392      accidents
+		Week16   7216      accidents
+		Week17   5992      accidents
+		Week18   4032      accidents
+		Week19   5616      accidents
+		Week20   6744      accidents
+		Week21   5376      accidents
+		Week22   6152      accidents
+		Week23   6912      accidents
+		Week24   6640      accidents
+		Week25   6800      accidents
+		Week26   4552      accidents
+		Week27   4808      accidents
+		Week28   5328      accidents
+		Week29   5840      accidents
+		Week30   5528      accidents
+		Week31   6000      accidents
+		Week32   5432      accidents
+		Week33   5680      accidents
+		Week34   5624      accidents
+		Week35   5928      accidents
+		Week36   6192      accidents
+		Week37   6296      accidents
+		Week38   5712      accidents
+		Week39   5728      accidents
+		Week40   5752      accidents
+		Week41   6512      accidents
+		Week42   6632      accidents
+		Week43   5984      accidents
+		Week44   6704      accidents
+		Week45   6856      accidents
+		Week46   6640      accidents
+		Week47   7480      accidents
+		Week48   6608      accidents
+		Week49   6896      accidents
+		Week50   7064      accidents
+		Week51   7000      accidents
+		Week52   7176      accidents
+		Week53   5816      accidents
+		Week54   6600      accidents
+		Week55   6680      accidents
+		Week56   6712      accidents
+		Week57   6776      accidents
+		Week58   6192      accidents
+		Week59   6672      accidents
+		Week60   6424      accidents
+		Week61   6072      accidents
+		Week62   6040      accidents
+		Week63   7288      accidents
+		Week64   6672      accidents
+		Week65   6744      accidents
+		Week66   6936      accidents
+		Week67   6512      accidents
+		Week68   6376      accidents
+		Week69   6856      accidents
+		Week70   6952      accidents
+		Week71   6728      accidents
+		Week72   6768      accidents
+		Week73   6808      accidents
+		Week74   6440      accidents
+		Week75   6656      accidents
+		Week76   7024      accidents
+		Week77   6648      accidents
+		Week78   5200      accidents
+		Week79   4448      accidents
+		Week80   5424      accidents
+		Week81   6048      accidents
+		Week82   6160      accidents
+		Week83   5824      accidents
+		Week84   5992      accidents
+		Week85   5952      accidents
+		Week86   5592      accidents
+		Week87   5872      accidents
+		Week88   5184      accidents
+		Week89   5664      accidents
+		Week90   6112      accidents
+		Week91   5784      accidents
+		Week92   6248      accidents
+		Week93   6624      accidents
+		Week94   5936      accidents
+		Week95   6360      accidents
+		Week96   6880      accidents
+		Week97   6792      accidents
+		Week98   7352      accidents
+		Week99   6840      accidents
+		Week100  6360      accidents
+		Week101  7384      accidents
+		Week102  6720      accidents
+		Week103  6952      accidents
+		Week104  6680      accidents
+		Week105  6224      accidents
+		Week106  6168      accidents
+		Week107  6752      accidents
+		Week108  6176      accidents
+		Week109  6816      accidents
+		Week110  6392      accidents
+		Week111  6296      accidents
+		Week112  6432      accidents
+		Week113  5944      accidents
+		Week114  6064      accidents
+		Week115  6440      accidents
+		Week116  6864      accidents
+		Week117  7064      accidents
+		Week118  6256      accidents
+		Week119  6624      accidents
+		Week120  6256      accidents
+		Week121  6696      accidents
+		Week122  7232      accidents
+		Week123  6384      accidents
+		Week124  6504      accidents
+		Week125  7160      accidents
+		Week126  5552      accidents
+		Week127  7184      accidents
+		Week128  7288      accidents
+		Week129  6648      accidents
+		Week130  4912      accidents
+		Week131  4552      accidents
+		Week132  5408      accidents
+		Week133  5800      accidents
+		Week134  5176      accidents
+		Week135  4624      accidents
+		Week136  5672      accidents
+		Week137  5872      accidents
+		Week138  6032      accidents
+		Week139  3784      accidents
+		Week140  7072      accidents
+		Week141  6208      accidents
+		Week142  5488      accidents
+		Week143  5712      accidents
+		Week144  6664      accidents
+		Week145  5960      accidents
+		Week146  6488      accidents
+		Week147  6968      accidents
+		Week148  6728      accidents
+		Week149  6648      accidents
+		Week150  7912      accidents
+		Week151  6632      accidents
+		Week152  6864      accidents
+		Week153  7248      accidents
+		Week154  6272      accidents
+		Week155  6640      accidents
+		Week156  7696      accidents
+		Week157  6656      accidents
+		Week158  6312      accidents
+		Week159  7424      accidents
+		Week160  6696      accidents
+		Week161  7680      accidents
+		Week162  6832      accidents
+		Week163  7248      accidents
+		Week164  6664      accidents
+		Week165  6288      accidents
+		Week166  6280      accidents
+		Week167  6896      accidents
+		Week168  7352      accidents
+		Week169  5920      accidents
+		Week170  7568      accidents
+		Week171  7592      accidents
+		Week172  6784      accidents
+		Week173  7544      accidents
+		Week174  6944      accidents
+		Week175  6632      accidents
+		Week176  7080      accidents
+		Week177  7416      accidents
+		Week178  5568      accidents
+		Week179  7224      accidents
+		Week180  7072      accidents
+		Week181  7416      accidents
+		Week182  5280      accidents
+		Week183  5208      accidents
+		Week184  5272      accidents
+		Week185  6536      accidents
+		Week186  5736      accidents
+		Week187  6024      accidents
+		Week188  6288      accidents
+		Week189  6032      accidents
+		Week190  5952      accidents
+		Week191  6344      accidents
+		Week192  6544      accidents
+		Week193  6288      accidents
+		Week194  6360      accidents
+		Week195  5640      accidents
+		Week196  6624      accidents
+		Week197  7016      accidents
+		Week198  6552      accidents
+		Week199  7176      accidents
+		Week200  5432      accidents
+		Week201  6272      accidents
+		Week202  6480      accidents
+		Week203  7112      accidents
+		Week204  5648      accidents
+		Week205  5184      accidents
+		Week206  4968      accidents
+		Week207  5248      accidents
+		Week208  5632      accidents
+		Week209  5896      accidents
+		Week210  4720      accidents
+		Week211  5680      accidents
+		Week212  5904      accidents
+		Week213  6032      accidents
+		Week214  5040      accidents
+		Week215  4944      accidents
+		Week216  5464      accidents
+		Week217  5216      accidents
+		Week218  4752      accidents
+		Week219  4840      accidents
+		Week220  5672      accidents
+		Week221  5008      accidents
+		Week222  5000      accidents
+		Week223  4992      accidents
+		Week224  4832      accidents
+		Week225  5312      accidents
+		Week226  5336      accidents
+		Week227  5824      accidents
+		Week228  5080      accidents
+		Week229  5816      accidents
+		Week230  4552      accidents
+		Week231  5280      accidents
+		Week232  5408      accidents
+		Week233  5296      accidents
+		Week234  4296      accidents
+		Week235  3256      accidents
+		Week236  1328      accidents
+		Avg lethal accidents/week: 505.08% (1192 lethal accidents over 236 weeks)
+

@@ -1,0 +1,9 @@
+In average after 10 iteration:
+Loading data time avg: 12.579850
+Query 1 calculation time avg: 0.062982
+Query 1 print time avg: 0.000795
+Query 2 support creation time avg: 5.527994
+Query 2 calculation and print time avg: 0.000249
+Query 3 support creation time avg: 0.580899
+Query 3 calculation and print time avg: 0.004055
+Free structures time avg: 1.118961
